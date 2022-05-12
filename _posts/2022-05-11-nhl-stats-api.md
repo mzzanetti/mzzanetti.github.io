@@ -3,12 +3,12 @@ title: Modernizing Public Hockey Analytics
 date: 2022-05-11 12:00:00 -0700
 categories: [Projects]
 tags: [data-science, data-engineering, python, singer, meltano, bigquery, dbt]     # TAG names should always be lowercase
+mermaid: True
 image:
   src: /assets/posts/hockey-analytics-meme.png
   width: 320   # in pixels
   height: 214   # in pixels
-  alt: it is wednesday my doods.
-mermaid: True
+  alt: hockey analytics meme
 ---
 Do you like hockey? Do you like data? Then you might like reading more about this project. Spoiler: it involves hockey, analytics, and a whole bunch of data engineering and data-science...
 
