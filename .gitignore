@@ -5,7 +5,7 @@
 !.nojekyll
 !.travis.yml
 
-# bundler cache
+# bundler cache swag
 _site
 vendor
 Gemfile.lock
