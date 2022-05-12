@@ -9,7 +9,7 @@ Welcome to the official Bicks-Bapa-Roob documentation site. The site exists to c
 
 ## 👨‍💻 Who we are 👩‍💻
 
-We are a community of data professionals who have come together to deepen our career journeys with **DATA**. 
+We are a community of data professionals who have come together to deepen our career journeys in **DATA**. 
 
 We believe that the best way to learn is by ~~trying~~ **DOING**, and that learning can be enriched within a **COMMUNITY**. 
 
