@@ -1,4 +1,4 @@
-# The Site Configuration!
+# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -197,3 +197,4 @@ jekyll-archives:
     category: /categories/:name/
 
 #gems: [jekyll-mermaid]
+#yo
