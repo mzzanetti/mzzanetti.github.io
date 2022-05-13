@@ -26,7 +26,7 @@ title: Moreno Zanetti                     # the main title
 tagline: Personal Website & Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Jekyll powered static site for Moreno Zanetti
+  Jekyll powered static site to build Moreno Zanetti's personal website
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://mzzanetti.github.io'
@@ -34,21 +34,21 @@ url: 'https://mzzanetti.github.io'
 github:
   username: mzzanetti             # change to your github username
 
-#twitter:
-#  username:             # change to your twitter username
+twitter:
+  username: mzzanetti             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Moreno Zanetti
-  #email: example@doamin.com             # change to your email address
+  email: mzanetti23@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mzzanetti      # change to your twitter homepage
+    - https://twitter.com/mzzanetti    # change to your twitter homepage
     - https://github.com/mzzanetti     # change to your github homepage
+    - https://www.linkedin.com/in/moreno-zanetti
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/moreno-zanetti
 
 google_site_verification:               # fill in to your verification string
 
